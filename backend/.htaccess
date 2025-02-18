@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^api/(.*)$ /markbook-project/backend/src/$1 [L]
