@@ -1,8 +1,8 @@
-# Frontend (markbook-project\frontend)
+# Frontend (/frontend)
 
 npm install - installing node modules from package.json
 
-# Backend (markbook-project\backend)
+# Backend (/backend)
 
 composer install
 composer init
